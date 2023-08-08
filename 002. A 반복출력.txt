@@ -1,0 +1,4 @@
+mov dl,23
+mov ah,02
+int 21
+JMP 0100
